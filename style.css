@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.container{
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background: white;
+    border-radius:10px;
+}
+
+.input-section{
+    display: flex;
+    gap: 10px;
+}
+
+input{
+    flex:1;
+    padding: 10px;
+}
+
+button{
+    padding:10px 15px;
+    cursor: pointer;
+}
+
+li{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+} 
+
+.completed{
+    text-decoration: line-through;
+    color: gray;
+}
