@@ -20,3 +20,8 @@ A simple Todo App built using HTML, CSS, and JavaScript.
 - Dark Mode
 - Task Priorities
 - Search Functionality
+
+## Preview
+
+![Todo App](screenshots/todo-app1.png)
+![Todo App](screenshots/todo-app2.png)
